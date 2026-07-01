@@ -1,17 +1,17 @@
-**Project Overview:**
+#**Project Overview:**
 This project focuses on customer segmentation using unsupervised machine learning techniques. The goal is to group customers based on behavioral and demographic features in order to extract meaningful business insights. These insights can help businesses improve targeted marketing, customer retention, and personalized customer strategies.
 
-Dataset Information:
+##Dataset Information:
 Source: Kaggle (https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
 The dataset contains customer demographic and behavioral attributes such as age, income, and spending score.
 These features are used to understand customer patterns and segment them into distinct groups.
 
-Objective:
+##Objective:
 Identify meaningful customer segments using clustering techniques
 Understand customer behavior patterns
 Generate business insights for marketing and strategy decisions
 
-Methodology:
+##Methodology:
 1. Data Preprocessing
 Handled missing values
 Checked and removed duplicates 
