@@ -34,14 +34,16 @@ These features are used to understand customer patterns and segment them into di
 
 7. Dimensionality Reduction
 PCA used for visualization of clusters in 2D space
+<img width="847" height="548" alt="image" src="https://github.com/user-attachments/assets/44e1b920-4185-4624-a2c6-6f52edb9cd0e" />
 
-8. Key Insights
+
+9. Key Insights
 ● Customers can be grouped into distinct segments based on spending behavior and income levels
 ● High-income, high-spending customers represent premium target groups
 ● Low-spending customers may require retention strategies
 ● Mid-segment customers present opportunities for targeted promotions
 
-9. Business Impact
+10. Business Impact
 ● Enables targeted marketing campaigns
 ● Helps improve customer retention strategies
 ● Supports personalized product recommendations
