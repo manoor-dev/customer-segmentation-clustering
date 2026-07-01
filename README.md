@@ -15,7 +15,9 @@ These features are used to understand customer patterns and segment them into di
 
 
 ## Methodology:
+
 1. Data Preprocessing
+
 ● Handled missing values
 
 ● Checked and removed duplicates 
