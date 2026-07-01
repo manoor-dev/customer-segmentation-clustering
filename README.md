@@ -7,49 +7,62 @@ The dataset contains customer demographic and behavioral attributes such as age,
 These features are used to understand customer patterns and segment them into distinct groups.
 
 ## Objective:
-Identify meaningful customer segments using clustering techniques
-Understand customer behavior patterns
-Generate business insights for marketing and strategy decisions
+● Identify meaningful customer segments using clustering techniques
+● Understand customer behavior patterns
+● Generate business insights for marketing and strategy decisions
 
 ## Methodology:
 1. Data Preprocessing
-Handled missing values
-Checked and removed duplicates 
-Encoded categorical variables 
-Scaled numerical features for clustering
+● Handled missing values
+● Checked and removed duplicates 
+● Encoded categorical variables 
+● Scaled numerical features for clustering
 
 3. Exploratory Data Analysis (EDA)
-Distribution analysis of key features
-Relationship between income, age, and spending behavior
-Visualization of customer patterns
+● Distribution analysis of key features
+● Relationship between income, age, and spending behavior
+●Visualization of customer patterns
 
 5. Clustering Techniques
-K-Means Clustering
-Hierarchical Clustering                                                                         
+● K-Means Clustering
+● Hierarchical Clustering                                                                         
 
 6. Model Evaluation
-Elbow Method to determine optimal number of clusters
-Silhouette Score for cluster quality evaluation
-Visual inspection of cluster separation
+● Elbow Method to determine optimal number of clusters
+● Silhouette Score for cluster quality evaluation
+● Visual inspection of cluster separation
 
 7. Dimensionality Reduction
 PCA used for visualization of clusters in 2D space
 
 8. Key Insights
-Customers can be grouped into distinct segments based on spending behavior and income levels
-High-income, high-spending customers represent premium target groups
-Low-spending customers may require retention strategies
-Mid-segment customers present opportunities for targeted promotions
+● Customers can be grouped into distinct segments based on spending behavior and income levels
+● High-income, high-spending customers represent premium target groups
+● Low-spending customers may require retention strategies
+● Mid-segment customers present opportunities for targeted promotions
 
 9. Business Impact
-Enables targeted marketing campaigns
-Helps improve customer retention strategies
-Supports personalized product recommendations
-Improves decision-making for pricing and promotions
+● Enables targeted marketing campaigns
+● Helps improve customer retention strategies
+● Supports personalized product recommendations
+● Improves decision-making for pricing and promotions
 
-10. Tools & Technologies
-Python
-Pandas, NumPy
-Matplotlib, Seaborn
+11. Tools & Technologies
+● Python
+● Pandas, NumPy
+● Matplotlib, Seaborn
+
+## 11. Results 
+● The optimal number of clusters was determined using the Elbow Method, suggesting a suitable value of K = 3 
+● Silhouette Score was used to evaluate cluster quality, showing reasonably well-separated customer groups.
+● Customers were successfully segmented into distinct behavioral groups based on income and spending patterns:
+● Cluster 1: High income, high spending customers (premium segment)
+● Cluster 2: High income, low spending customers (potential growth segment)
+● Cluster 3: Low income, high spending customers (impulsive buyers)
+● Cluster 4: Low income, low spending customers (low engagement segment)
+● PCA visualization helped clearly separate clusters in a 2D space.
+● Clustering results provide meaningful segmentation for targeted marketing strategies 
+
+
 Scikit-learn
 Jupyter Notebook
