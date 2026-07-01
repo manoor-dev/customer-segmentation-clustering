@@ -1,4 +1,4 @@
-Project Overview:
+**Project Overview:**
 This project focuses on customer segmentation using unsupervised machine learning techniques. The goal is to group customers based on behavioral and demographic features in order to extract meaningful business insights. These insights can help businesses improve targeted marketing, customer retention, and personalized customer strategies.
 
 Dataset Information:
